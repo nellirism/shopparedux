@@ -53,7 +53,7 @@ GIVEN an e-commerce platform that uses Redux to manage global state
 
 ## 4. Follow the Link
 
----link to the deployed app
+https://shopparedux.herokuapp.com/
 
 <a name="usage"></a>
 
@@ -76,6 +76,8 @@ If you are still interested in running the application you would need to do the 
 ## 6. Features
 
 ### Walkthrough video
+
+https://user-images.githubusercontent.com/71202250/130389820-36cc7f5c-1153-4af9-b8e2-d4935068eed9.mp4
 
 <a name="commandInstall"></a>
 
